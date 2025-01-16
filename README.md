@@ -9,7 +9,7 @@ This website contains the full recipe for **Jalebi**, including ingredients and 
 ## How to Use
 
 1. **Access the website** by clicking on the link below:
-   - [Jalebi Recipe Website](https:/file:///Users/ziadqamar/Desktop/Coding/password.html/)
+   - [file:///Users/ziadqamar/Desktop/Coding/password.html](https:/file:///Users/ziadqamar/Desktop/Coding/password.html/)
 
 2. When you open the website, you will be prompted to enter a password.
    - The password is: **Ernest300**
